@@ -38,4 +38,17 @@ const MC_SPRITES_ENTITYS = {
     "村民" : "VILLAGER",
 }
 
-export {MC_SPRITES_ENTITYS}
+const MATH_OPTIONS = {
+    'sin' : 'math.sin',
+    'cos' : 'math.cos',
+    'tan' : 'math.tan',
+    'asin' : 'math.asin',
+    'acos' : 'math.acos',
+    'atan' : 'math.atan',
+    'abs' : 'abs',
+    'sqrt' : 'math.sqrt',
+    'floor' : 'math.floor',
+    'ceiling' : 'math.ceil',
+}
+
+export {MC_SPRITES_ENTITYS, MATH_OPTIONS}
